@@ -3,22 +3,13 @@ layout: default
 categories: recipe
 
 # TOP DETAILS
-title: Focaccia and pizza base
+title: "All things italian I: focaccia and pizza"
 duration: 30 minutes
 vessel: Bowl
 heat: Oven
 servings: 2
 tags: [italian, hearty, coup de coeur]
 amount: meal
-
-# NUTRITION FACTS
-calories: 
-protein: 
-total-carbs: 
-sugars: 
-total-fat:
-saturated-fat: 
-fiber: 
 
 # IMAGES
 img: butter-sage
@@ -62,7 +53,9 @@ instructions:
     8. (30 min): 
         - Place the focaccia (using a pizza peel or a rimless baking sheet) in the oven, still on the baking paper, directly onto the hot baking tray in the oven and bake for 25-30 minutes until golden.
 
-note: Some of the things I miss the most as a gluten-less glutton would have to be proper Italian pizza (thin and crispy around the edges, stretchy but still with bite in the middle), focaccia (salty, rosemary crunch on the outside, light and spongey on the inside) and pasta (particularly long, luscious strands of linguine or spaghetti swathed in some kind of sauce). And how I rue that I cannot savour the homemade wild mushroom tagliatelle or devour the melt-in-your-mouth pumpkin and truffle ravioli at our hood Italian. So, in a bid to silence my moans and in part solve the problem, my other half booked me onto a gluten free Italian cookery class in Marylebone’s Cucina Caldesi. This was taught by chef, food writer and teacher Adriana Rabionovich who, inspired by her daughter being diagnosed with coeliac’s disease at 18 months, has been teaching gluten free techniques for many years. The day began with learning how to make a focaccia and pizza base recipe – both comprised of the same ingredients. What surprised me was the use of ground almonds in the mixture – something I never would have thought of adding to a savoury bread recipe. Adriana explained that the almonds allow more moisture to be retained in the dough. The trick with this recipe is precision -measure out your ingredients to a T as a couple of grams over or under can make or break the correct crust or crunch. The great thing about making focaccia is that unlike most other breads it only needs about 15 minutes to rise, so you can have it ready in time to mop up your sauce.
+note: "Some of the things I miss the most as a gluten-less glutton would have to be proper Italian pizza (thin and crispy around the edges, stretchy but still with bite in the middle), focaccia (salty, rosemary crunch on the outside, light and spongey on the inside) and pasta (particularly long, luscious strands of linguine or spaghetti swathed in some kind of sauce). And how I rue that I cannot savour the homemade wild mushroom tagliatelle or devour the melt-in-your-mouth pumpkin and truffle ravioli at our 'hood Italian. 
+
+So, in a bid to silence my moans and in part solve the problem, my other half booked me onto a gluten free Italian cookery class in Marylebone’s Cucina Caldesi. This was taught by chef, food writer and teacher Adriana Rabionovich who, inspired by her daughter being diagnosed with coeliac’s disease at 18 months, has been teaching gluten free techniques for many years. The day began with learning how to make a focaccia and pizza base recipe – both comprised of the same ingredients. What surprised me was the use of ground almonds in the mixture – something I never would have thought of adding to a savoury bread recipe. Adriana explained that the almonds allow more moisture to be retained in the dough. The trick with this recipe is precision -measure out your ingredients to a T as a couple of grams over or under can make or break the correct crust or crunch. The great thing about making focaccia is that unlike most other breads it only needs about 15 minutes to rise, so you can have it ready in time to mop up your sauce."
 ---
 <!--more-->
 
