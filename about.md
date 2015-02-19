@@ -3,10 +3,12 @@ title: About
 layout: default
 ---
 
-##ABOUT
+## What Is Glutenus Minimus?
+Glutenus Minimus is the lovechild of a decade of gluten intolerance and a lifetime of gastronomy. Glutenus Minimus is dedicated to charting my gluten-free culinary creations as I continue to learn, discover and create viable (and equally tasty) alternatives.
 
-The concept behind Plato Frugal is supposed to be holistical frugal.
-The site itself is hosted on [github](http://github.com/platofrugal/blog){:target="_blank"}{: .external-link} and generated with [jekyll](http://jekyllrb.com/){:target="_blank"}{: .external-link}. The sites' design is meant to be minimal as well as the content - A pure recipe blog focusing on the essential facts and recipe guidelines.
+## About Me
+
+I am North-Londoner who lives South of the river, within striking distance of the gastronimic goldmine that is Borough Market. Having grown up in a well-travelled cosmopolitan Jewish family, food (from all corners of the globe) has played a fundamental part of my life. From making multicoloured cakes from my Osbourne’s First Cookbook to my first souffle, food has provided both challenge and joy. When discovering discomforting symptoms that turned out to be a gluten intolerance, this served as further fuel for my gastronomic and gluttonous voyage of discovery.
 
 ###Stream of Keywords 
 
