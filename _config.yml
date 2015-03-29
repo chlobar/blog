@@ -1,13 +1,13 @@
 # Site settings
 title: Glutenus Minimus
-email: platofrugal@gmail.com
+email: glutenusminimus83@gmail.com
 author: "Chloe Barget"
-description: Food blog for modest and clean recipes.
+description: Musings of a gluten free glutton
 baseurl: "" 
 url: "http://www.glutenus-minimus.co.uk"
-twitter: platofrugal
-github:  platofrugal
-facebook: platofrugal
+twitter: G2TheMinimus
+github:  
+facebook: 
 
 image: apple-touch-icon-180x180.png
 # Build settings

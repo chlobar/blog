@@ -35,7 +35,7 @@ instructions:
     1. (01 min):
         - Put the oven on low to keep the pancakes warm, and cook or otherwise prepare any bacon or other accompaniments. Wash your blueberries and then pat them dry with kitchen towel. This is important if you don't want them to bleed juice into your pancake whilst it cooks.Crisp bacon under the grill on both side. Keep plates warm in oven.
     2. (02 min): 
-        - Put the flour, salt, baking powder and bicarbonate of soda into a mixing bowl. Whisk the egg whites with the vanilla extract until they form soft peaks
+        - Put the flour, salt, baking powder and bicarbonate of soda into a mixing bowl. Whisk the egg whites with the vanilla extract until they form soft peaks.
     3. (02 min):
         - Whisk the buttermilk into the dry ingredients until you have a smooth paste and then stir in the egg white mixture. Don't over mix as you don't want the mixture to overwork the protein in the egg white and lose the fluffiness. Fold in the blueberries if using.
     4. (05 min): 

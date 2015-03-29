@@ -40,7 +40,7 @@ instructions:
     5. (10 min): 
         - Leave the dough to rest a few minutes in between, so that it dries a little and doesn’t stick to the rollers.
     6. (05 min):
-        - Fresh pasta will take between 4 and 5 minutes to cook in boiling salted water. Make sure to have plenty of water, you will need at least 1 litre per 100g of pasta
+        - Fresh pasta will take between 4 and 5 minutes to cook in boiling salted water. Make sure to have plenty of water, you will need at least 1 litre per 100g of pasta.
 
 note: 
 
