@@ -2,8 +2,10 @@
 title: About
 layout: default
 ---
+![Glutenus Minimus Icon](/img/glutenus-icon.jpg)
 
 ## What Is Glutenus Minimus?
+
 Glutenus Minimus is the lovechild of a decade of gluten intolerance and a lifetime of gastronomy. Glutenus Minimus is dedicated to charting my gluten-free culinary creations as I continue to learn, discover and create viable (and equally tasty) alternatives.
 
 ## About Me
@@ -12,18 +14,16 @@ I am North-Londoner who lives South of the river, within striking distance of th
 
 ###Stream of Keywords 
 
-*raise*{: .key-s} *awareness of the simplicity of diet*{: .key-xl} 
-*be fed*{: .key-s} *healthy, tasty*{: .key-l} *and*{: .key-s} *satisfying*{: .key-l} 
-*not necessarily expensive,*{: .key-s}
-*not tied to a specific*{: .key-s} *nutrition morality*{: .key-m} *or*{: .key-s} *dietary belief*{: .key-m}
-*fitness food*{: .key-xl} *naturally tasty*{: .key-m}
-*ground the sense of taste*{: .key-l} *away from*{: .key-s} *gustatory supersaturated food*{: .key-m}
+*wheatless*{: .key-s} *gluten free goodness*{: .key-xl} 
+*gastonome*{: .key-s} *simple, tasty*{: .key-l} *and*{: .key-s} *satisfying*{: .key-l} 
+*home made*{: .key-s}
+*not ncessarily expensive*{: .key-s} *nutritious and delicious*{: .key-m} *and*{: .key-s} *gluten intolerant*{: .key-m}
+*fresh*{: .key-xl} *additive free*{: .key-m}
+*glutenless glutton*{: .key-l}
 *minimalism*{: .key-l}
 *low*{: .key-s} *salt*{: .key-m}
-*low*{: .key-s} *carb*{: .key-m}
-*refined sugar-free*{: .key-l}
-*high*{: .key-s} *protein*{: .key-m}
-*...*{: .key-m}
+*maximum*{: .key-s} *taste*{: .key-m}
+
 
 {: .row}
 
