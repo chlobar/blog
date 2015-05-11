@@ -3,7 +3,7 @@ layout: default
 categories: recipe
 
 # TOP DETAILS
-title: "beer-battered-fish"
+title: "beer battered fish"
 duration: 15 minutes preparation, 25 - 40 minutes cooking
 vessel: saucepan, bowl
 heat: hob

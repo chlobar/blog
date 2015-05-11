@@ -3,7 +3,7 @@ layout: default
 categories: recipe
 
 # TOP DETAILS
-title: "spiced-salmon-pâté"
+title: "spiced salmon pâté"
 duration: 10 minutes preparation, 42 minutes cooking
 vessel: tray
 heat: Oven
